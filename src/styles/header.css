@@ -1,0 +1,108 @@
+.container2{
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+
+
+
+
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-right: 0px;
+    text-align: left;
+    margin-bottom: 500px ;
+
+}
+
+nav > a{
+    color: rgb(247, 255, 254);
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 150px;
+    margin-left: ;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+    
+    
+}
+
+nav > a:hover{
+  text-decoration: underline;
+  color: #fff;
+  font-weight: 400;
+  
+
+}
+
+.logo{ 
+   
+    align-items: center;
+    width: 200px;
+    height: 130px;
+    margin-right: 80px;
+    margin-top: 10px;
+    margin-left: 0px;
+    
+  
+  }
+
+  .wave{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+     overflow: hidden;
+     
+}
+
+header{
+
+ 
+  background: #c0c0aa;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, hsla(184, 100%, 55%, 0.87), hsla(60, 15%, 71%, 0)), url(../img/woman112.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, hsla(327, 100%, 50%, 0.116), hsla(60, 15%, 71%, 0)), url(../img/woman112.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    height: 620px;
+    width: 100%;
+    border: 20px;
+    
+
+} 
+
+
+.wave1{
+    height: 100%; width: 100%;
+}
+
+.wave2{
+    stroke: none; fill: white;
+}
+
+header .textos-header{
+  display: flex;
+  height: 430px;
+  width: 100%;
+
+  
+  }
+  
+  .textos-header h1{
+      font-size: 50px;
+      color: #fff;
+  
+  }
+  .textos-header h2{
+      font-size: 30px;
+      font-weight: 300;
+      color: #fff;
+  }
+  
