@@ -31,7 +31,7 @@ function Carousel1(){
                 </div>
     
                  <div className="box">
-                    <img src={lemom12}></img>
+                    <img src={lemom14}></img>
                     <span>titulo3</span>
                  </div>
     

@@ -21,7 +21,7 @@ nav{
 }
 
 nav > a{
-    color: rgb(247, 255, 254);
+    color: rgb(7, 12, 11);
     font-weight: 400;
     text-decoration: none;
     margin-right: 150px;
@@ -36,7 +36,7 @@ nav > a{
 
 nav > a:hover{
   text-decoration: underline;
-  color: #fff;
+  color: black;
   font-weight: 400;
   
 
@@ -67,8 +67,8 @@ header{
 
  
   background: #c0c0aa;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, hsla(184, 100%, 55%, 0.87), hsla(60, 15%, 71%, 0)), url(../img/woman112.jpg);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, hsla(327, 100%, 50%, 0.116), hsla(60, 15%, 71%, 0)), url(../img/woman112.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, hsla(184, 100%, 55%, 0.87), hsla(60, 15%, 71%, 0)), url(../img/woman113.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, hsla(327, 100%, 50%, 0.116), hsla(60, 15%, 71%, 0)), url(../img/woman110.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -85,7 +85,7 @@ header{
 }
 
 .wave2{
-    stroke: none; fill:white;
+    stroke: none; fill:black;
 }
 
 header .textos-header{
@@ -98,12 +98,12 @@ header .textos-header{
   
   .textos-header h1{
       font-size: 50px;
-      color: #fff;
+      color:black;
   
   }
   .textos-header h2{
       font-size: 30px;
       font-weight: 300;
-      color: #fff;
+      color: black;
   }
   

@@ -30,6 +30,8 @@ function Footer(){
 
         </div>
         <div className="line"></div>
+
+
     </footer>
     ) 
     

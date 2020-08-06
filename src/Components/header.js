@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from "react-router-dom"
 import '../styles/header.css';
-import logoLemom from '../img/logoLemomTransparente-03.png';
+import logoLemom from '../img/logoLemomTransparente-02.png';
 
 function Header(){
 
