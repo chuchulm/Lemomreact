@@ -11,8 +11,6 @@ import lemom16 from '../img/lemom16.jpeg';
 import lemom17 from '../img/lemom17.jpeg';
 
 
-    
-
 
 
 

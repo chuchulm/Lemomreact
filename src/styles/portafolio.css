@@ -26,11 +26,9 @@
 
 .portafolio{
 
-    background: #800080;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #ffc0cb, #800080);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #ffc0cb, #800080); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: rgb(253, 253, 248);
     
-    border-bottom: 5px solid rgb(255, 0, 0);
+    border-bottom: 1.5px solid rgb(255, 0, 0);
     
     
      

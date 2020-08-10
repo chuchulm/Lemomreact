@@ -16,9 +16,9 @@ function Main(){
                     
                     <div className="sobre-nosotros">
                         
-                    <div className="imgMain">
+                    <div className="imgMain ">
                     
-                       <img src={lemom101}></img>
+                       <img src={lemom101} className="animate__animated animate__jackInTheBox"></img>
                        
                        
                     </div>

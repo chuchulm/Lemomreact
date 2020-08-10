@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/portafolio.css';
-import logo from '../img/logoLemomTransparente-03.png';
+import logo from '../img/logoLemomTransparente-02.png';
 import lemom10 from '../img/lemom10.jpeg';
 import lemom11 from '../img/lemom11.jpeg';
 import lemom12 from '../img/lemom12.jpeg';
