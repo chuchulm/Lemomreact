@@ -11,6 +11,10 @@ import lemom16 from '../img/lemom16.jpeg';
 import lemom17 from '../img/lemom17.jpeg';
 
 
+    
+
+
+
 
 function Carousel1(){
     return(
@@ -22,6 +26,7 @@ function Carousel1(){
     
                 <div className="box">
                   <img src={lemom10}></img>
+                  <span>titulo1</span>
                   <span>titulo1</span>
                 </div>
     
