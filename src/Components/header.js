@@ -13,16 +13,16 @@ function Header(){
             <div>
               <div className="container2">
                  <div>
-                     <img src={logoLemom} alt="" className="logo animate__animated animate__rollIn"></img>
+                     <img src={logoLemom} alt="" className="logo animate__animated animate__rollIn animate__slow	2s"></img>
                  </div>
                    
-                      <div className="App  animate__animated animate__zoomInDown">
+                      <div className="App  animate__animated animate__bounceInRight animate__slow	2s">
                           <div className="cabecera">
                              <nav>
                                 <Link to="/">Inicio</Link>
-                                <Link  to="/carousel1">Bandanas</Link>
+                                <Link  to="/bandanas">Bandanas</Link>
                                 
-                                <Link to="/Galeria">Accesorios</Link>
+                                <Link to="/accesorios">Accesorios</Link>
                                 
                                 
                              </nav>

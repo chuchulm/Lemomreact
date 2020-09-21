@@ -18,7 +18,7 @@ function Main(){
                         
                     <div className="imgMain ">
                     
-                       <img src={lemom101} className="animate__animated animate__jackInTheBox"></img>
+                       <img src={lemom101} className=" img1 animate__animated animate__jackInTheBox animate__slower	3s"></img>
                        
                        
                     </div>
@@ -33,11 +33,8 @@ function Main(){
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis illo blanditiis incidunt mollitia repudiandae recusandae beatae, itaque modi pariatur repellat eos, laborum facilis architecto quo, fugit voluptatum fuga vitae eveniet.</p>
                             </div>
                         </div>
-
-
                         
-                        
-                </section>
+    </section>
                 
 
         

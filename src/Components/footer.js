@@ -7,7 +7,7 @@ function Footer(){
     return(
         
         <footer id="contacto">
-        <div className="contenedor footer-content">
+        <div className=" footer-content">
             <div className="contact-us">
                 <h2 className="brand">Lemom Accesorios</h2>
                 <p>Hecho a mano en Venezuela</p>
@@ -31,7 +31,7 @@ function Footer(){
         </div>
         <div className="line"></div>
 
-
+                 
     </footer>
     ) 
     

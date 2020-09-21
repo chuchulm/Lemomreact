@@ -1,11 +1,11 @@
 .lemom1{
     display: flex;
     background: black;
-
-    
-    
     justify-content: center;
     align-items: center;
+    margin: auto;
+    position: static;
+    
     
 }
 
@@ -20,35 +20,25 @@
 
 
 .dorao{
-    
-    width: 100%;
-    padding: 0;
-    height: 75vh;
-    display: block;
-    
-    
+     width: 100%;
+     height: 130vh;
+   
 }
 
 .doraoparty{
-    height: 75%;
-    width: 70%;
-    padding: 10px;
-    margin: 10px;
+    height: 90%;
+    width: 100%;
+    
     align-content: center;
-    margin-left: 20px;
-    border: 4px solid  #f5fbfc;
+
+
     
 
 
    
  }
 
- .logoPortafolio{
-     width: 150px;
-     margin-left: 165px;
-     
-     
- }
+ 
 
  
 

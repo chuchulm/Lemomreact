@@ -3,11 +3,12 @@ import Header from './header'
 import Main from './main'
 import Portafolio from './Portafolio';
 import Carousel from './carousel';
-import Carousel1 from './carousel1';
 import Sociales from './estilos';
 import Footer from './footer';
+import Video from './Video'
 import Iconos from './iconos'
-import Galeria from './Galeria'
+
+
 
 
 
@@ -15,16 +16,20 @@ function Home(){
     return(
       <>
        <header>
-       <Header/>
+        <Header/>
        </header>
+
        <main>
-        <Main/>
+        <Main/>>
         <Portafolio/>
-        <Carousel/>
+        <Video/>
+        {/* <Carousel/> */}
         <Sociales/>
+        <Iconos/>
       </main>
+
       <footer>
-          <Footer/>
+        <Footer/>
       </footer>
     
     </>

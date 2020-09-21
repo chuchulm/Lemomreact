@@ -1,8 +1,8 @@
 .contenedor1{
 
-    padding: 20px 0;
-    width: 80%;
-    max-width: 1000px;
+    
+    width: 100%;
+    max-width: 1200px;
     margin: auto;
     overflow: hidden;
     display: flex;
@@ -14,11 +14,13 @@
 
 
 .logo2{
-    width: 17%;
-    height: 90px;
-    margin-bottom: 30px;
-    margin-left: 370px;
-    display: flex;
+
+    width: 20%;
+    height: 120px;
+    margin-bottom: 60px;
+    display: block;
+     margin: auto;
+  
     
     
 }
@@ -26,9 +28,9 @@
 
 .portafolio{
 
-    background: rgb(253, 253, 248);
+    background: rgb(0, 0, 0);
     
-    border-bottom: 1.5px solid rgb(255, 0, 0);
+   
     
     
      
@@ -38,13 +40,14 @@
         display: flex;
         justify-content: space-evenly;
         flex-wrap: wrap;
+        margin-bottom: 50px;
         
         
     }
     
     .imagen-port{
         width: 24%;
-        height: 250px;
+        height: 300px;
         margin-bottom: 10px;
         overflow: hidden;
         position: relative;
@@ -57,7 +60,7 @@
     .imagen-port > img{
         width: 100%;
         height: 100%;
-        object-fit: cover;
+        /* object-fit: cover; */
         display: block;
         
     }

@@ -8,7 +8,7 @@ function NavBar(){
     return(
         
         <footer>
-        <nav className="navbar navbar-expand-lg navbar-light bg-light  lemonNavBar">
+        <nav className="navbar navbar-expand-lg navbar navbar-dark bg-dark  lemonNavBar">
             
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
@@ -16,13 +16,13 @@ function NavBar(){
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav">
                 <li className="nav-item active">
-                  <Link className="nav-link" to="/">Inicio <span className="sr-only">(current)</span></Link>
+                  <Link className="nav-link navcolor" to="/">Inicio </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="Carousel1">Bandanas</Link>
+                  <Link className="nav-link" to="/bandanas">Bandanas</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="Galeria">Accesorios</Link>
+                  <Link className="nav-link" to="/accesorios">Accesorios</Link>
                 </li>
                 
               </ul>

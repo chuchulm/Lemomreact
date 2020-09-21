@@ -1,16 +1,18 @@
 import React from 'react';
 import {Switch, Route} from 'react-router-dom'
 import Home from './Components/Home'
-import Carousel1 from './Components/carousel1';
-import Galeria from './Components/Galeria';
+import Bandanas from './Components/bandanas';
+import Accesorios from './Components/accesorios';
+import Lightbox1 from './Components/Lightbox1';
 
 
 function Routes(){
     return(
        <Switch>
            <Route exact path= "/" component ={Home}/>
-           <Route exact path= "/Galeria" component ={Galeria}/>
-           <Route exact path= "/carousel1" component ={Carousel1}/>
+           <Route exact path= "/accesorios" component ={Accesorios}/>
+           <Route exact path= "/bandanas" component ={Bandanas}/>
+           <Route exact path= "/Lightbox" component ={Lightbox1}/>
 
        </Switch>
     );
