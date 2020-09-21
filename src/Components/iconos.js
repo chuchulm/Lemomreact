@@ -13,9 +13,8 @@ function Iconos(){
         <a href=""><div className="row-icon icon4"><h4>Messenger</h4><label className="fab fa-facebook-messenger label4"></label></div></a>
         
         
-        <h2 className="fas fa-plus-circle circulorojo"></h2>
+        <h2 className="fas fa-atom circulorojo"></h2>
     </div>
     )
 }
 export default Iconos;
-

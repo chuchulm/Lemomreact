@@ -29,8 +29,8 @@ function Main(){
                         <div className="contenido-textos">
                             <div className="contenido-texto">
                                 <h3>Lemom</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis illo blanditiis incidunt mollitia repudiandae recusandae beatae, itaque modi pariatur repellat eos, laborum facilis architecto quo, fugit voluptatum fuga vitae eveniet.</p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis illo blanditiis incidunt mollitia repudiandae recusandae beatae, itaque modi pariatur repellat eos, laborum facilis architecto quo, fugit voluptatum fuga vitae eveniet.</p>
+                                <p>En Lemom pensamos en la comidad de las mujeres que les gusta lucir unicas. Las bandanas brindan esa comodidad para el dia a dia en diferentes labores que desenpeña la mujer y dan un toque femenino como ninguna otra prenda.  </p>
+                                <p> Las Bandanas son fabricadas a mano y echas con las mejores telas y materiales que se pueden coseguir en el mercado. Cada bandana que fabricamos tiene un toque unico que las distinguen del resto.</p>
                             </div>
                         </div>
                         

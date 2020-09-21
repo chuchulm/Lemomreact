@@ -3,7 +3,7 @@ import '../styles/Video.css';
 import ReactPlayer from 'react-player'
 
 import Video1 from '../img/angel.mp4'
-import Video2 from'../img/videolemom.webm'
+import Video2 from'../img/atardecer.mp4'
 
 
 function Video() {
@@ -13,7 +13,7 @@ function Video() {
     
     <div className='video1'>
         <ReactPlayer 
-          url={Video1}
+          url={Video2}
           className='react-player'
           playing
           width='100%'
